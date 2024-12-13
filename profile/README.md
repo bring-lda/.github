@@ -2,4 +2,4 @@
 
 ![Bring](001.jpg)
 
-Welcome to the Bring repository, browse our open source projects and get the most out of them.
+Bem-vindo ao repositório Bring, navegue pelos nossos projectos de código aberto e tire o máximo partido deles.
