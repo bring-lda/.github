@@ -1,5 +1,7 @@
 ## Get Involved
 
-![Bring](../images/banner.png) 
+![Bring](../images/banner.png)
 
-Bem-vindo ao repositório Bring, navegue pelos nossos projectos de código aberto e tire o máximo partido deles.
+Projetos, ferramentas e soluções tecnológicas desenvolvidas pela Bring.
+
+Explore os nossos repositórios e acompanhe o nosso trabalho.
